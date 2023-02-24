@@ -54,6 +54,7 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 
 4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+![image](https://user-images.githubusercontent.com/117920423/221124547-e230d3c8-0daf-4b4f-9608-99e978ec1046.png)
 
 
 5. VIDEO.
