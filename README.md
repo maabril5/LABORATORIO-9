@@ -28,8 +28,7 @@ FASORES.
 
 MAPA CONCEPTUAL.
 
-
-
+![image](https://user-images.githubusercontent.com/117920423/221114439-27413e5e-8c63-4cdb-9123-73e7b2494411.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO.
 
@@ -70,6 +69,8 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 7. BIBLIOGRAFÍA.
 
 - Thomas L. Floyd. (2007). Principios de circuitos electrónicos. PEARSON EDUCACIÓN, México
+
+- Gutiérrez, O. H., & Completo, V. mi P. (s/f). Análisis de Circuitos Eléctricos. Blogspot.com. Recuperado el 24 de febrero de 2023, de http://circuitoselectricosac.blogspot.com/p/12-fasores.html
 
 
 
