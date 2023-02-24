@@ -56,13 +56,15 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 
 4.1)
 
-
+![image](https://user-images.githubusercontent.com/117920423/221129610-cbca4294-9e1c-43a8-aa0e-8962bf025b42.png)
 
 4.2)
 
-
+![image](https://user-images.githubusercontent.com/117920423/221129465-793dfca7-26b0-41b9-ac45-5a9983ab2f1b.png)
 
 4.3)
+
+
 
 5. VIDEO.
 
