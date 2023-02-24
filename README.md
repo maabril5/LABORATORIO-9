@@ -40,7 +40,7 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 
 4.1. Sin emplear calculadora. Transforme a su forma polar:
 
-
+![image](https://user-images.githubusercontent.com/117920423/221115821-5f8d873b-2290-467e-88e1-776c73a3ee4d.png)
 
 4.2 Sin emplear calculadora. Transforme a su forma rectangular:
 
