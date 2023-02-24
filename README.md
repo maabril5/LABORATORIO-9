@@ -50,7 +50,13 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 
 4.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/117920423/221196604-0e3a95ff-bb2d-4e0b-b0b6-92626820fd05.png)
 
+![image](https://user-images.githubusercontent.com/117920423/221196705-c27d20c2-9d27-402b-8327-88d08158f594.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221196862-8457581b-f576-4be2-bdb0-a0acc18bc960.png)
+
+![image](https://user-images.githubusercontent.com/117920423/221196939-4014feed-6595-4057-b209-29bb21ff62f8.png)
 
 4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
@@ -64,7 +70,7 @@ Los materiales necesarios para realizar el laboratorio 9 son:
 
 4.3)
 
-
+![image](https://user-images.githubusercontent.com/117920423/221197131-a4ac6145-93e2-4070-ad03-9d9c730b70f2.png)
 
 5. VIDEO.
 
